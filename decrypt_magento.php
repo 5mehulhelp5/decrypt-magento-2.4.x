@@ -74,6 +74,5 @@ foreach ($results as $row) {
     echo "Decrypted Value: $decryptedValue" . PHP_EOL . PHP_EOL;
 }
 function isEncrypted($value) {
-    // Check for Magento's encryption prefixes (e.g., '0:', '1:', '2:', etc.)
     return preg_match('/^\d+:.*$/', $value);
 }
