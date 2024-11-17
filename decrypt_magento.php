@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 /**
- * Magento 2.4.5 Decrypt core_config_data values using Magento's framework
+ * Magento 2.4.x Decrypt core_config_data values using Magento's framework
  *
  * This script can be placed in /usr/sbin or any directory in your PATH.
  * When run, it will attempt to locate the Magento installation in the current
@@ -9,8 +9,8 @@
  *
  * Usage:
  * 1. Place this script in /usr/sbin or any directory in your PATH.
- * 2. Ensure it has execute permissions: chmod +x decrypt_core_config_data.php
- * 3. Run the script from any directory containing a Magento installation: decrypt_core_config_data.php
+ * 2. Ensure it has execute permissions: chmod +x decrypt_magento.php
+ * 3. Run the script from any directory containing a Magento installation: decrypt_magento.php
  *
  * @author: Sean Breeden
  * @website: www.seanbreeden.com
