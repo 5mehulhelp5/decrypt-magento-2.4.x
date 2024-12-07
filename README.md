@@ -55,4 +55,4 @@
       \$$$$$$$ \$$   \$$   \$$$$  \$$       \$$  \$$$$$$$ \$$$$$$$                                      
                                                                                                 
 # Magento2 Decrypt Core Config Data Entries
-This is a script for decrypting stored core_config_data values at the command line
+This is a script for decrypting stored core_config_data values at the command line.
